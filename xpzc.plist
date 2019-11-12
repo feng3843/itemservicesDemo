@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>一张57*57的png图片地址</string>
+                        <string>https://github.com/feng3843/itemservicesDemo/blob/master/57.png?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>一张512*512的png图片地址</string>
+                        <string>https://github.com/feng3843/itemservicesDemo/blob/master/512.png?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
