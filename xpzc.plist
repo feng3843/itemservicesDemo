@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zxh.xpzc</string>
+				<string>com.hanyong.xpzc</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>需要下载这个标题</string>
+				<string>优派众测</string>
 			</dict>
 		</dict>
 	</array>
